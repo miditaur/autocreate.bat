@@ -11,7 +11,7 @@ echo * structure of the website                     *
 echo * Author: Cherniievskyi Yurii                  *
 echo * Created on: March 20, 2024                   *
 echo * Last Modified: August 7, 2025                *
-echo * Link:https://miditaur.net                    *
+echo * Link:https://chyw.pp.ua                    *
 echo * License:MIT Open Source License              *
 echo ************************************************
 
@@ -226,3 +226,4 @@ echo The style.css file was created successfully.
 echo The app.js file was created successfully.
 
 pause
+
