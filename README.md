@@ -16,8 +16,6 @@ Ideal for:
 - quickly deploying a framework without manually preparing files
 - educational purposes (learning HTML/CSS/JS framework)
 
----
-
 ## 📂 Framework after launch
 project-root/
 │
