@@ -17,24 +17,29 @@ Ideal for:
 - educational purposes (learning HTML/CSS/JS framework)
 
 ## 📂 Framework after launch
+## 📂 Структура після запуску
+
+```
 project-root/
 │
 ├── autocreate.bat
 ├── index.html
 └── assets/
-├── css/
-│ ├── reset.css
-│ ├── normalize.css
-│ └── style.css
-├── js/
-│ └── app.js
-└── img/
+    ├── css/
+    │   ├── reset.css
+    │   ├── normalize.css
+    │   └── style.css
+    ├── js/
+    │   └── app.js
+    └── img/
+```
+
 
 ## ▶️ How to use
 
 1. Copy the `autocreate.bat` file to the desired directory.
 2. Double-click or run it in the command line:
-```cmd
+cmd
 autocreate.bat
 The result will be a complete site structure with basic content.
 
@@ -42,10 +47,10 @@ The result will be a complete site structure with basic content.
 
 ## 🖋️ Settings
 You can change the title and description variables in the script:
-
 set title=Site_name
 set description=Site_description
-🧑‍💻 Author
+
+## 🧑‍💻 Author
 Cherniievskyi Yurii
 🔗 https://miditaur.net
 
