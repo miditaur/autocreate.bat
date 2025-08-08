@@ -17,7 +17,6 @@ Ideal for:
 - educational purposes (learning HTML/CSS/JS framework)
 
 ## 📂 Framework after launch
-## 📂 Структура після запуску
 
 ```
 project-root/
@@ -33,7 +32,6 @@ project-root/
     │   └── app.js
     └── img/
 ```
-
 
 ## ▶️ How to use
 
@@ -52,7 +50,7 @@ set description=Site_description
 
 ## 🧑‍💻 Author
 Cherniievskyi Yurii
-🔗 https://miditaur.net
+🔗 https://chyw.pp.ua
 
 ## 📝 License
 This project is licensed under the MIT License.
